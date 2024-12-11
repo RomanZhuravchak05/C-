@@ -1,0 +1,6 @@
+@pz3_HostAddress = http://localhost:5257
+
+GET {{pz3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+C:\Users\dom25\source\repos\pz3\pz3\obj\Debug\net8.0\pz3.csproj.AssemblyReference.cache
+C:\Users\dom25\source\repos\pz3\pz3\obj\Debug\net8.0\pz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dom25\source\repos\pz3\pz3\obj\Debug\net8.0\pz3.AssemblyInfoInputs.cache
+C:\Users\dom25\source\repos\pz3\pz3\obj\Debug\net8.0\pz3.AssemblyInfo.cs
+C:\Users\dom25\source\repos\pz3\pz3\obj\Debug\net8.0\pz3.csproj.CoreCompileInputs.cache
+C:\Users\dom25\source\repos\pz3\pz3\obj\Debug\net8.0\pz3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dom25\source\repos\pz3\pz3\obj\Debug\net8.0\pz3.MvcApplicationPartsAssemblyInfo.cache
