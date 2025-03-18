@@ -1,0 +1,14 @@
+C:\Users\dom25\source\repos\LB1\LB1\bin\Debug\net8.0\LB1.exe
+C:\Users\dom25\source\repos\LB1\LB1\bin\Debug\net8.0\LB1.deps.json
+C:\Users\dom25\source\repos\LB1\LB1\bin\Debug\net8.0\LB1.runtimeconfig.json
+C:\Users\dom25\source\repos\LB1\LB1\bin\Debug\net8.0\LB1.dll
+C:\Users\dom25\source\repos\LB1\LB1\bin\Debug\net8.0\LB1.pdb
+C:\Users\dom25\source\repos\LB1\LB1\obj\Debug\net8.0\LB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dom25\source\repos\LB1\LB1\obj\Debug\net8.0\LB1.AssemblyInfoInputs.cache
+C:\Users\dom25\source\repos\LB1\LB1\obj\Debug\net8.0\LB1.AssemblyInfo.cs
+C:\Users\dom25\source\repos\LB1\LB1\obj\Debug\net8.0\LB1.csproj.CoreCompileInputs.cache
+C:\Users\dom25\source\repos\LB1\LB1\obj\Debug\net8.0\LB1.dll
+C:\Users\dom25\source\repos\LB1\LB1\obj\Debug\net8.0\refint\LB1.dll
+C:\Users\dom25\source\repos\LB1\LB1\obj\Debug\net8.0\LB1.pdb
+C:\Users\dom25\source\repos\LB1\LB1\obj\Debug\net8.0\LB1.genruntimeconfig.cache
+C:\Users\dom25\source\repos\LB1\LB1\obj\Debug\net8.0\ref\LB1.dll
