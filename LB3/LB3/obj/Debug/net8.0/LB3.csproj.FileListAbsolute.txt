@@ -1,0 +1,14 @@
+C:\Users\dom25\source\repos\LB3\LB3\bin\Debug\net8.0\LB3.exe
+C:\Users\dom25\source\repos\LB3\LB3\bin\Debug\net8.0\LB3.deps.json
+C:\Users\dom25\source\repos\LB3\LB3\bin\Debug\net8.0\LB3.runtimeconfig.json
+C:\Users\dom25\source\repos\LB3\LB3\bin\Debug\net8.0\LB3.dll
+C:\Users\dom25\source\repos\LB3\LB3\bin\Debug\net8.0\LB3.pdb
+C:\Users\dom25\source\repos\LB3\LB3\obj\Debug\net8.0\LB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dom25\source\repos\LB3\LB3\obj\Debug\net8.0\LB3.AssemblyInfoInputs.cache
+C:\Users\dom25\source\repos\LB3\LB3\obj\Debug\net8.0\LB3.AssemblyInfo.cs
+C:\Users\dom25\source\repos\LB3\LB3\obj\Debug\net8.0\LB3.csproj.CoreCompileInputs.cache
+C:\Users\dom25\source\repos\LB3\LB3\obj\Debug\net8.0\LB3.dll
+C:\Users\dom25\source\repos\LB3\LB3\obj\Debug\net8.0\refint\LB3.dll
+C:\Users\dom25\source\repos\LB3\LB3\obj\Debug\net8.0\LB3.pdb
+C:\Users\dom25\source\repos\LB3\LB3\obj\Debug\net8.0\LB3.genruntimeconfig.cache
+C:\Users\dom25\source\repos\LB3\LB3\obj\Debug\net8.0\ref\LB3.dll
